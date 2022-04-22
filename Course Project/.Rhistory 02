@@ -1,0 +1,4 @@
+###plot2
+plot(x = rawData$DateTime, y = rawData$GlobalActivePower, type = 'l', xlab = NA, ylab = 'Global Active Power (kilowatts)')
+plot(x = a$DateTime, y = a$GlobalActivePower, type = 'l', xlab = NA, ylab = 'Global Active Power (kilowatts)')
+savehistory("~/Course2 Assignment 4(1.)/.Rhistory 03")

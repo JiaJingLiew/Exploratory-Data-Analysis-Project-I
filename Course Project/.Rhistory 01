@@ -1,0 +1,4 @@
+hist(rawData$GlobalActivePower, col = 'red', main = 'Global Active Power',xlab = 'Global Active Power (kilowatts)')
+hist(a$GlobalActivePower, col = 'red', main = 'Global Active Power',xlab = 'Global Active Power (kilowatts)')
+hist(a$GlobalActivePower, col = 'red', main = 'Global Active Power',xlab = 'Global Active Power (kilowatts)')
+savehistory("~/Course2 Assignment 4(1.)/.Rhistory 02")
